@@ -4,7 +4,7 @@ Hello there! I'm a final-year Telecommunications Engineering student with a pass
 
 ---
 
-## 🚀 Professional Experience
+##  Professional Experience
 
 ### ELYADATA | Software Data Engineer Intern (July 2025 - Sep 2025)
 At ELYADATA, I focused on integrating AI into the development lifecycle to enhance security and efficiency.
@@ -31,7 +31,7 @@ I contributed to strengthening the cloud security posture by implementing data p
 
 ---
 
-## 🛠️ Featured Personal Projects
+##  Featured Personal Projects
 
 Here are a couple of projects I've built to apply and showcase my skills.
 
@@ -40,18 +40,18 @@ A complete, automated CI/CD pipeline that takes a Java application from code com
 
 *   **Description:** This project automates the entire lifecycle, including building with Maven, ensuring code quality with SonarQube, testing with JUnit, containerizing with Docker, and deploying.
 *   **Tools:** `Java`, `Spring Boot`, `Maven`, `Jenkins`, `Docker`, `SonarQube`, `Nexus`, `Prometheus`, `Grafana`.
-*   **[🔗 View the Project on GitHub]**(Your-Repo-Link-Here)
+*   **[🔗 View the Project on GitHub]**https://github.com/taherb22/devops_project
 
 ### 2. Full-Stack E-commerce Website
 A modern e-commerce platform featuring a secure RESTful API and a responsive front-end.
 
 *   **Description:** This project demonstrates my ability to build a full-stack application, focusing on a robust back-end with secure JWT-based authentication and a clean user interface.
 *   **Tools:** `React`, `Java`, `Spring Boot`, `JWT`, `REST APIs`.
-*   **[🔗 View the Project on GitHub]**(Your-Repo-Link-Here)
+*   **[🔗 View the Project on GitHub]**https://github.com/taherb22/E-commerce_website-backend
 
 ---
 
-## 📫 Get In Touch
+##  Get In Touch
 
 *   **LinkedIn:** [linkedin.com/in/mohamed-taher-boudrigua](https://www.linkedin.com/in/mohamed-taher-boudrigua/)
 *   **Email:** [taherboudriga22@gmail.com](mailto:taherboudriga22@gmail.com)
