@@ -1,57 +1,66 @@
-# Mohamed Taher Boudrigua | DevOps & cloud  Engineer
+# Mohamed Taher Boudrigua
 
-Hello there! I'm a final-year Telecommunications Engineering student with a passion for building scalable, automated, and intelligent systems. My experience lies at the intersection of **DevOps, Cloud Security, and AI**, where I focus on creating efficient CI/CD pipelines and developing AI-driven solutions. I am currently seeking a challenging end-of-studies internship to contribute to a forward-thinking software development team.
-
----
-
-##  Professional Experience
-
-### ELYADATA | Software Data Engineer Intern (July 2025 - Sep 2025)
-At ELYADATA, I focused on integrating AI into the development lifecycle to enhance security and efficiency.
-
-*   Implemented a multi-agent AI system with **LangGraph** to automate Jenkins security audits, cutting manual review time by 70%.
-*   Identified and flagged over 25 potential security issues through automated code and configuration analysis.
-*   Developed a webhook-driven service using **FastAPI** to provide developers with immediate feedback on their code pushes within GitHub.
-*   **Key Technologies:** `Python`, `FastAPI`, `LangGraph`, `LangChain`, `Groq`, `Docker`.
-
-### Neoxion Technologies | DevOps Intern (Sep 2025 – Nov 2025)
-My role involved enhancing the observability and logging infrastructure for containerized applications.
-
-*   Deployed and managed **Fluent Bit** within a Kubernetes cluster using **Helm charts** to create a centralized logging pipeline.
-*   Automated the configuration and deployment process using **Ansible**.
-*   Ensured reliable log aggregation from all containerized applications for real-time monitoring and troubleshooting.
-*   **Key Technologies:** `Kubernetes`, `Ansible`, `AWS`, `Kafka`, `Fluent Bit`, `Python`, `Bash`, `Git`, `Docker`.
-
-### 6NLG Security | Cloud Security Intern (Sep 2025 - Dec 2025)
-I contributed to strengthening the cloud security posture by implementing data protection policies.
-
-*   Implemented a Cloud Access Security Broker (CASB) solution to monitor and control cloud application usage.
-*   Developed and enforced Data Loss Prevention (DLP) rules to protect sensitive data across various cloud services.
-*   **Key Technologies:** `CASB Solutions`, `DLP`, `Cloud Security Principles`.
+**ML Engineer · LLM Pretraining · NLP Research**  
+Final-year Engineering Student @ SUPCOM · Incoming Graduate Student @ GVSU
 
 ---
 
-##  Featured Personal Projects
+## Research Interests
 
-Here are a couple of projects I've built to apply and showcase my skills.
-
-### 1. End-to-End DevOps Pipeline for a Spring Boot App
-A complete, automated CI/CD pipeline that takes a Java application from code commit to deployment.
-
-*   **Description:** This project automates the entire lifecycle, including building with Maven, ensuring code quality with SonarQube, testing with JUnit, containerizing with Docker, and deploying.
-*   **Tools:** `Java`, `Spring Boot`, `Maven`, `Jenkins`, `Docker`, `SonarQube`, `Nexus`, `Prometheus`, `Grafana`.
-*   **[🔗 View the Project on GitHub]**https://github.com/taherb22/devops_project
-
-### 2. Full-Stack E-commerce Website
-A modern e-commerce platform featuring a secure RESTful API and a responsive front-end.
-
-*   **Description:** This project demonstrates my ability to build a full-stack application, focusing on a robust back-end with secure JWT-based authentication and a clean user interface.
-*   **Tools:** `React`, `Java`, `Spring Boot`, `JWT`, `REST APIs`.
-*   **[🔗 View the Project on GitHub]**https://github.com/taherb22/E-commerce_website-backend
+- Large Language Model pretraining & architecture design
+- Parameter-efficient fine-tuning (LoRA, QLoRA, PEFT)
+- Data-centric AI & synthetic data generation
+- NLP benchmarking & evaluation
+- Transformer tokenization strategies
 
 ---
 
-##  Get In Touch
+## Current Work
 
-*   **LinkedIn:** [linkedin.com/in/mohamed-taher-boudrigua](https://www.linkedin.com/in/mohamed-taher-boudrigua/)
-*   **Email:** [taherboudriga22@gmail.com](mailto:taherboudriga22@gmail.com)
+🔬 **End-of-Studies Research Project @ PCP Consulting**  
+Pretraining a 100M-parameter domain-specific SLM from scratch for DevOps automation — LLaMA architecture, custom BPE tokenizer (GPT-2/StarCoder/SantaCoder literature), split AdamW+Muon optimizer, BOS-aligned sequence packing, compute-optimal tokens-to-params ratio of 10.5.
+
+---
+
+## Featured Projects
+
+### 🧠 Efficient Fine-Tuning of LLaMA 3B
+Systematic investigation of LoRA and QLoRA for domain adaptation under constrained compute. 4-bit quantization (bitsandbytes), PEFT, Unsloth. Full analysis documented.  
+→ [Kaggle Notebook](https://www.kaggle.com/code/taherboudriga/fine-tunning-notebook)
+
+### 🤖 AI-Powered Jenkins Pipeline Auditor
+Multi-agent CI/CD security analysis system built with LangChain + LangGraph. FastAPI backend integrated directly into Jenkins pipelines.  
+→ [GitHub Repo](https://github.com/taherb22/AI-powered-jenkins-pipeline-auditor)
+
+### 📦 Domain-Specific Pretraining Corpus (~3.5B tokens)
+End-to-end data pipeline: scraping, parsing, normalising technical documentation (AWS, Azure, GCP, Kubernetes, Terraform). Multi-layered quality validation + synthetic data generation via Qwen 2.5 Coder on GCP Vertex AI.
+
+---
+
+## Tech Stack
+
+```
+Languages     Python · C/C++ · SQL · Bash
+ML / NLP      PyTorch · Hugging Face · LLM Pretraining · BPE Tokenization · PEFT · RAG
+AI Frameworks LangChain · LangGraph · OpenAI API
+Cloud/DevOps  GCP Vertex AI · Docker · Jenkins · FastAPI · Git
+```
+
+---
+
+## Competitive Programming
+
+- 🥇 Ranked **27th** — Tunisian Collegiate Programming Contest (TCPC) 2024
+- 🏅 Ranked **17th** — BEE Battle 2.0
+- 🏅 Ranked **19th** — Solve It 2.0
+
+→ [Codeforces Profile](https://codeforces.com/profile/taherboudriga23)
+
+---
+
+## Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taher-boudriga-848233283/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/taherb22)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/taherboudriga)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:taherboudriga22@gmail.com)
