@@ -51,8 +51,7 @@ Cloud/DevOps  GCP Vertex AI · Docker · Jenkins · FastAPI · Git
 ## Competitive Programming
 
 - 🥇 Ranked **27th** — Tunisian Collegiate Programming Contest (TCPC) 2024
-- 🏅 Ranked **17th** — BEE Battle 2.0
-- 🏅 Ranked **19th** — Solve It 2.0
+
 
 → [Codeforces Profile](https://codeforces.com/profile/taherboudriga23)
 
