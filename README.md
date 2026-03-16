@@ -1,7 +1,7 @@
 # Mohamed Taher Boudrigua
 
 **ML Engineer · LLM Pretraining · NLP Research**  
-Final-year Engineering Student @ SUPCOM · Incoming Graduate Student @ GVSU
+Final-year Engineering Student @ SUPCOM 
 
 ---
 
