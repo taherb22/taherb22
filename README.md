@@ -1,17 +1,17 @@
 # Mohamed Taher Boudrigua
 
-**ML Engineer · LLM Pretraining · NLP Research**  
-Final-year Engineering Student @ SUPCOM 
+**Applied AI Engineer · MLOps · NLP Research**  
+Final-year Engineering Student @ SUPCOM
 
 ---
 
 ## Research Interests
 
-- Large Language Model pretraining & architecture design
-- Parameter-efficient fine-tuning (LoRA, QLoRA, PEFT)
-- Data-centric AI & synthetic data generation
-- NLP benchmarking & evaluation
-- Transformer tokenization strategies
+- Applied AI & NLP Systems
+- MLOps & Model Deployment
+- LLM Fine-Tuning & Pretraining
+- Cloud Infrastructure & DevOps
+- AI for Software Engineering
 
 ---
 
@@ -32,6 +32,10 @@ Systematic investigation of LoRA and QLoRA for domain adaptation under constrain
 Multi-agent CI/CD security analysis system built with LangChain + LangGraph. FastAPI backend integrated directly into Jenkins pipelines.  
 → [GitHub Repo](https://github.com/taherb22/AI-powered-jenkins-pipeline-auditor)
 
+### ☁️ Automated Kubernetes Cluster on Azure
+End-to-end automated Kubernetes cluster deployment on Azure using IaC — Terraform for provisioning, Ansible for configuration, Jenkins pipelines for orchestration.  
+→ [GitHub Repo](https://github.com/taherb22/kubernetes-azure-automation)
+
 ### 📦 Domain-Specific Pretraining Corpus (~3.5B tokens)
 End-to-end data pipeline: scraping, parsing, normalising technical documentation (AWS, Azure, GCP, Kubernetes, Terraform). Multi-layered quality validation + synthetic data generation via Qwen 2.5 Coder on GCP Vertex AI.
 
@@ -42,8 +46,8 @@ End-to-end data pipeline: scraping, parsing, normalising technical documentation
 ```
 Languages     Python · C/C++ · SQL · Bash
 ML / NLP      PyTorch · Hugging Face · LLM Pretraining · BPE Tokenization · PEFT · RAG
-AI Frameworks LangChain · LangGraph · OpenAI API
-Cloud/DevOps  GCP Vertex AI · Docker · Jenkins · FastAPI · Git
+AI Frameworks LangChain · LangGraph
+Cloud/DevOps  GCP Vertex AI · Docker · Jenkins · FastAPI · Git · Kubernetes · Terraform · Ansible
 ```
 
 ---
@@ -51,7 +55,7 @@ Cloud/DevOps  GCP Vertex AI · Docker · Jenkins · FastAPI · Git
 ## Competitive Programming
 
 - 🥇 Ranked **27th** — Tunisian Collegiate Programming Contest (TCPC) 2024
-
+- 🏅 Ranked **30th** — Tunisian Collegiate Programming Contest (TCPC) 2025
 
 → [Codeforces Profile](https://codeforces.com/profile/taherboudriga23)
 
@@ -62,4 +66,4 @@ Cloud/DevOps  GCP Vertex AI · Docker · Jenkins · FastAPI · Git
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taher-boudriga-848233283/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/taherb22)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/taherboudriga)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:taherboudriga22@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mohamedtaher.boudrigua@supcom.tn)
